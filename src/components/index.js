@@ -1,7 +1,7 @@
-import MIcon from './Icon'
+import XWatermark from './Watermark'
 
 const components = [
-  MIcon
+  XWatermark
 ]
 
 // 注册组件
@@ -15,5 +15,5 @@ if (typeof window !== 'undefined' && window.Vue) {
 
 export default {
   install,
-  MIcon
+  XWatermark
 }

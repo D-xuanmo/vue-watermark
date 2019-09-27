@@ -1,21 +1,13 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png" alt="Vue logo">
-    <m-icon type="m-icon-home"></m-icon>
+    <x-watermark></x-watermark>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  data () {
-    return {
-
-    }
-  },
-  computed: {
-
-  },
+  name: 'App'
 }
 </script>
 

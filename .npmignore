@@ -1,3 +1,9 @@
 /src
 /public
+/doc
+/dist/*.html
 .*
+babel.config.js
+postcss.config.js
+vue.config.js
+yarn.lock

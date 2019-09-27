@@ -2,7 +2,6 @@ const path = require('path')
 
 module.exports = {
   lintOnSave: true,
-  // outputDir: 'doc',
   devServer: {
     overlay: {
       warnings: true,
@@ -23,7 +22,7 @@ module.exports = {
   css: {
     loaderOptions: {
       sass: {
-        data: '@import "@/style/variable.scss";'
+        // data: '@import "@/style/variable.scss";'
       }
     }
   },
