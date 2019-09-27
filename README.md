@@ -1,6 +1,4 @@
-# vue-watermark
-
-> vue水印组件使用说明
+# vue-watermark 水印组件使用说明
 
 ## 安装
 
@@ -10,7 +8,7 @@ or
 npm i @xuanmo/watermark
 ```
 
-## 在项目中使用
+## 项目中使用
 
 * 在vue项目入口文件中引入，全局注册
 ```js
