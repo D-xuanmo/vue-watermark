@@ -1,6 +1,6 @@
 {
   "name": "@xuanmo/vue-watermark",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "author": "xuanmo <me@xuanmo.xin>",
   "main": "dist/vue-watermark.umd.min.js",
@@ -9,7 +9,6 @@
     "build": "vue-cli-service build --target lib --name vue-watermark src/components/index.js",
     "lint": "vue-cli-service lint"
   },
-  "style": "dist/vue-watermark.css",
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10"
@@ -25,5 +24,6 @@
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10"
   },
-  "keywords": ["vue-watermark"]
+  "keywords": ["vue-watermark"],
+  "homepage": "https://github.com/xuanmos/vue-watermark"
 }
