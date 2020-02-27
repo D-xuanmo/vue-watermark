@@ -1,6 +1,6 @@
 {
   "name": "@xuanmo/vue-watermark",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "author": "xuanmo <me@xuanmo.xin>",
   "main": "dist/vue-watermark.umd.min.js",
